@@ -61,7 +61,7 @@ function UI() {
               </span>
               <input
                 type="text"
-                placeholder=""
+                // placeholder=""
                 className="header-right-input"
                 placeholder="search"
               ></input>
@@ -183,7 +183,7 @@ function UI() {
             </div>
             {/* <div className="hero-main-left-allContent"> */}
             <div className="scroll-bar">
-              <a className="hero-main-left-content">
+              <a href="www" className="hero-main-left-content">
                 <div className="hero-main-left-title">
                   <span className="hero-main-left-title-name">
                     Gloria Robetsan
@@ -200,7 +200,7 @@ function UI() {
                   important if you want to get better at creating UIs.
                 </p>
               </a>
-              <a className="hero-main-left-content">
+              <a href="www" className="hero-main-left-content">
                 <div className="hero-main-left-title">
                   <span className="hero-main-left-title-name">
                     Gloria Robetsan
@@ -217,7 +217,7 @@ function UI() {
                   important if you want to get better at creating UIs.
                 </p>
               </a>
-              <a className="hero-main-left-content">
+              <a href="www" className="hero-main-left-content">
                 <div className="hero-main-left-title">
                   <span className="hero-main-left-title-name">
                     Gloria Robetsan
@@ -234,7 +234,7 @@ function UI() {
                   important if you want to get better at creating UIs.
                 </p>
               </a>
-              <a className="hero-main-left-content">
+              <a href="www" className="hero-main-left-content">
                 <div className="hero-main-left-title">
                   <span className="hero-main-left-title-name">
                     Gloria Robetsan
@@ -251,7 +251,7 @@ function UI() {
                   important if you want to get better at creating UIs.
                 </p>
               </a>
-              <a className="hero-main-left-content">
+              <a href="www" className="hero-main-left-content">
                 <div className="hero-main-left-title">
                   <span className="hero-main-left-title-name">
                     Gloria Robetsan
@@ -268,7 +268,7 @@ function UI() {
                   important if you want to get better at creating UIs.
                 </p>
               </a>
-              <a className="hero-main-left-content">
+              <a href="www" className="hero-main-left-content">
                 <div className="hero-main-left-title">
                   <span className="hero-main-left-title-name">
                     Gloria Robetsan
