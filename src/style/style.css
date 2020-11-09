@@ -14,7 +14,9 @@ body {
 }
 
 /* ---------------------------------!!!! left - Header!!!!! -----------------------------*/
-
+a {
+  text-decoration: none;
+}
 .header-left {
   background-color: rgb(45, 55, 72);
   padding: 0.75rem 1rem;
